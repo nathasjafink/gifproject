@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-section h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.middle-section input {
+    display: flex;
+    justify-content: center;
+}
+
+.middle-section label {
+    display: flex;
+    justify-content: center;
+}
+
